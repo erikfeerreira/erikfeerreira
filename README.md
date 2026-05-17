@@ -11,7 +11,7 @@
 <br/><br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-erikfeerreira-faf7f2?style=flat-square&logo=github&logoColor=1c140a&labelColor=e8dcc4)](https://github.com/erikfeerreira)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-conectar-faf7f2?style=flat-square&logo=linkedin&logoColor=1c140a&labelColor=e8dcc4)](https://linkedin.com/in/erikfeerreira)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-conectar-faf7f2?style=flat-square&logo=linkedin&logoColor=1c140a&labelColor=e8dcc4)](https://www.linkedin.com/in/erikferreirads/)
 ![views](https://komarev.com/ghpvc/?username=erikfeerreira&style=flat-square&color=c9b48a&labelColor=e8dcc4&label=visitas)
 
 </div>
