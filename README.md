@@ -67,6 +67,13 @@ Entrar no mercado como desenvolvedor back-end e evoluir para trabalhar com siste
 
 ###
 
+
+## 💼 Projetos
+
+### 📝 To Do List (Python)
+Sistema simples de gerenciamento de tarefas focado em lógica e organização de código.
+
+🔗 https://github.com/erikfeerreira/todo-list-python
 <br><br>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:faf7f2,50:e8dcc4,100:faf7f2&height=120&section=footer"/>
