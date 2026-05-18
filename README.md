@@ -6,6 +6,12 @@
 Estudante de Engenharia de Software focado em construir base sólida em back-end, cloud e infraestrutura.
 </p>
 
+<p align="left">
+🎯 <strong>Buscando estágio em tecnologia</strong><br><br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-e8dcc4?style=for-the-badge&logo=linkedin&logoColor=1c140a)](https://www.linkedin.com/in/erikferreirads/)
+</p>
+
 ###
 
 <h2 align="left">About me</h2>
@@ -13,11 +19,10 @@ Estudante de Engenharia de Software focado em construir base sólida em back-end
 ###
 
 <p align="left">
-✨ Criando bugs desde 2025 <br>
-📚 Atualmente estudando Python e fundamentos de cibersegurança (<strong>Cisco</strong>) <br>
-🎯 Objetivo: conquistar minha primeira oportunidade como estagiário em tecnologia <br>
+📚 Atualmente estudando Python e fundamentos de cibersegurança (Cisco) <br>
 🚀 Interesse em back-end, cloud, devops e infraestrutura <br>
-🎲 Curiosidade: gosto de entender como tudo funciona por baixo dos panos
+🎯 Objetivo: conquistar minha primeira oportunidade como estagiário em tecnologia <br>
+☕ Aprendendo com os erros e evoluindo a cada tentativa
 </p>
 
 ###
@@ -32,7 +37,6 @@ Estudante de Engenharia de Software focado em construir base sólida em back-end
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" />
-  <img width="12" />
 </div>
 
 ###
@@ -60,3 +64,9 @@ Estudante de Engenharia de Software focado em construir base sólida em back-end
 <p align="left">
 Entrar no mercado como desenvolvedor back-end e evoluir para trabalhar com sistemas em nuvem, automação e infraestrutura escalável.
 </p>
+
+###
+
+<br><br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:faf7f2,50:e8dcc4,100:faf7f2&height=120&section=footer"/>
