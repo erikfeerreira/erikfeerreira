@@ -1,79 +1,146 @@
-<h1 align="left">Olá, eu sou Erik 👋</h1>
-
-###
-
-<p align="left">
-Estudante de Engenharia de Software focado em construir base sólida em back-end, cloud e infraestrutura.
+<h1 align="center">Olá, eu sou Erik Ferreira 👋</h1>
+<h3 align="center">
+🔐 Estudante de Segurança Cibernética • ☁️ Cloud Computing • 🐧 Linux
+</h3>
+<p align="center">
+Construindo minha carreira em Cybersecurity, Infraestrutura, Redes e Cloud Computing.
+</p>
+<p align="center">
+<a href="mailto:erikfeerreira0@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge">
+</a>
+<a href="https://www.linkedin.com/in/erikferreirads">
+<img src="https://img.shields.io/badge/LinkedIn-Erik%20Ferreira-blue?style=for-the-badge&logo=linkedin">
+</a>
 </p>
 
-<p align="left">
-🎯 <strong>Buscando estágio em tecnologia</strong><br><br>
+⸻
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-e8dcc4?style=for-the-badge&logo=linkedin&logoColor=1c140a)](https://www.linkedin.com/in/erikferreirads/)
+🚀 Sobre Mim
+
+🎓 Estudante de Segurança Cibernética na Universidade Presbiteriana Mackenzie (EAD)
+
+📍 São Paulo - SP
+
+💼 Atualmente atuando como Consultor de Vendas na Academia Gaviões 24h
+
+Sou apaixonado por tecnologia, segurança da informação e resolução de problemas. Minha experiência profissional me permitiu desenvolver habilidades de comunicação, negociação e pensamento analítico, enquanto construo minha formação técnica em Cybersecurity.
+
+Atualmente estou focado em:
+
+* 🔐 Segurança da Informação
+* 🌐 Redes de Computadores
+* ☁️ Cloud Computing
+* 🐧 Linux
+* 💻 Programação
+* 🛡️ Cybersecurity
+
+⸻
+
+🛠️ Tecnologias e Ferramentas
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=linux,python,git,github,bash,vscode,react,firebase,html,css,js" />
 </p>
 
-###
+⸻
 
-<h2 align="left">About me</h2>
+📚 Formação
 
-###
+🎓 Tecnólogo em Segurança Cibernética
 
-<p align="left">
-📚 Atualmente estudando Python e fundamentos de cibersegurança (Cisco) <br>
-🚀 Interesse em back-end, cloud, devops e infraestrutura <br>
-🎯 Objetivo: conquistar minha primeira oportunidade como estagiário em tecnologia <br>
-☕ Aprendendo com os erros e evoluindo a cada tentativa
-</p>
+Universidade Presbiteriana Mackenzie (EAD)
 
-###
+📅 Início: Agosto de 2026
 
-<h2 align="left">Stack atual</h2>
+📅 Previsão de Conclusão: Fevereiro de 2029
 
-###
+⸻
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" />
+📜 Certificações e Cursos
+
+✅ Cisco Networking Academy — Introduction to Cybersecurity
+
+✅ Git & GitHub — Udemy
+
+🔄 Segurança Cibernética — Mackenzie (Cursando)
+
+⸻
+
+💼 Experiência Profissional
+
+Consultor de Vendas | Academia Gaviões 24h
+
+* Atendimento ao cliente
+* Relacionamento comercial
+* Gestão de leads
+* Pós-venda
+* Negociação
+* Resolução de problemas
+* Trabalho com metas e indicadores
+
+Competências desenvolvidas:
+
+* Comunicação
+* Oratória
+* Organização
+* Trabalho em equipe
+* Pensamento analítico
+* Foco em resultados
+
+⸻
+
+🔥 Projeto em Destaque
+
+Gaviões Feedback Flow
+
+Sistema de coleta e análise de feedbacks desenvolvido para a Academia Gaviões 24h.
+
+Tecnologias:
+
+* React
+* TypeScript
+* Firebase
+* Firestore
+
+Funcionalidades:
+
+* Dashboard gerencial
+* NPS em tempo real
+* Avaliação por categorias
+* Armazenamento em nuvem
+* Integração com QR Code
+
+⸻
+
+🎯 Objetivos para 2026–2027
+
+* Conseguir minha primeira oportunidade em Tecnologia
+* Obter AWS Cloud Practitioner
+* Obter Cisco CCST Cybersecurity
+* Aprimorar Linux
+* Aprender Cloud Security
+* Desenvolver projetos de Cybersecurity
+* Aprender Pentest
+* Contribuir para projetos Open Source
+
+⸻
+
+📫 Contato
+
+📧 E-mail:
+erikfeerreira0@gmail.com
+
+💼 LinkedIn:
+https://www.linkedin.com/in/erikferreirads
+
+📍 Localização:
+São Paulo - Brasil
+
+⸻
+
+<div align="center">
+
+⭐ “Security is not a product, it’s a process.”
+
 </div>
-
-###
-
-<h2 align="left">Em evolução</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="aws logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="sql logo" />
-</div>
-
-###
-
-<h2 align="left">Objetivo</h2>
-
-###
-
-<p align="left">
-Entrar no mercado como desenvolvedor back-end e evoluir para trabalhar com sistemas em nuvem, automação e infraestrutura escalável.
-</p>
-
-###
-
-
-## 💼 Projetos
-
-### 📝 To Do List (Python)
-Sistema simples de gerenciamento de tarefas focado em lógica e organização de código.
-
-🔗 https://github.com/erikfeerreira/todo-list-python
-<br><br>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:faf7f2,50:e8dcc4,100:faf7f2&height=120&section=footer"/>
