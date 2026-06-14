@@ -126,13 +126,14 @@ Funcionalidades:
 
 ⸻
 
-📫 Contato
-
-📧 E-mail:
-erikfeerreira0@gmail.com
+## 📫 Contato
 
 💼 LinkedIn:
-https://www.linkedin.com/in/erikferreirads
+www.linkedin.com/in/erikferreirads
+
+📧 Disponível via LinkedIn ou GitHub
+
+
 
 📍 Localização:
 São Paulo - Brasil
