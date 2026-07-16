@@ -19,10 +19,10 @@ Meu objetivo é construir uma carreira como **Engenheiro de Software**, com espe
 
 ## 🎓 Formação
 
-**Bacharelado em Engenharia de Software**
+### Bacharelado em Engenharia de Software
+**UNINTER**
 
-- 🎓 Graduação em andamento
-- 📅 Previsão de conclusão: **2030**
+📅 Previsão de conclusão: **2030**
 
 ---
 
