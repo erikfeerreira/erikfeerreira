@@ -139,7 +139,7 @@ Sistema desenvolvido para automatizar o processo de avaliação dos alunos da Ac
 
 ## 📫 Contato
 
-- 💼 LinkedIn: https://linkedin.com/in/erikfeerreirads
+- 💼 LinkedIn: www.linkedin.com/in/erikferreirads
 - 📧 Email: erikfeerreira0@gmail.com
 ---
 
